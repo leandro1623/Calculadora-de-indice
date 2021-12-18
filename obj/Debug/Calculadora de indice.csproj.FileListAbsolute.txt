@@ -1,0 +1,12 @@
+C:\Users\acerv\OneDrive\Desktop\Calculadora de indice\bin\Debug\Calculadora de indice.exe.config
+C:\Users\acerv\OneDrive\Desktop\Calculadora de indice\bin\Debug\Calculadora de indice.exe
+C:\Users\acerv\OneDrive\Desktop\Calculadora de indice\bin\Debug\Calculadora de indice.pdb
+C:\Users\acerv\OneDrive\Desktop\Calculadora de indice\obj\Debug\Calculadora_de_indice.DataSubjet.resources
+C:\Users\acerv\OneDrive\Desktop\Calculadora de indice\obj\Debug\Calculadora_de_indice.fMain.resources
+C:\Users\acerv\OneDrive\Desktop\Calculadora de indice\obj\Debug\Calculadora_de_indice.Properties.Resources.resources
+C:\Users\acerv\OneDrive\Desktop\Calculadora de indice\obj\Debug\Calculadora_de_indice.Questions.resources
+C:\Users\acerv\OneDrive\Desktop\Calculadora de indice\obj\Debug\Calculadora de indice.csproj.GenerateResource.cache
+C:\Users\acerv\OneDrive\Desktop\Calculadora de indice\obj\Debug\Calculadora de indice.csproj.CoreCompileInputs.cache
+C:\Users\acerv\OneDrive\Desktop\Calculadora de indice\obj\Debug\Calculadora de indice.exe
+C:\Users\acerv\OneDrive\Desktop\Calculadora de indice\obj\Debug\Calculadora de indice.pdb
+C:\Users\acerv\OneDrive\Desktop\Calculadora de indice\obj\Debug\Calculadora de indice.csproj.AssemblyReference.cache
