@@ -29,6 +29,7 @@ namespace Calculadora_de_indice
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(fMain));
             this.txtAverage = new System.Windows.Forms.TextBox();
             this.txtIndex = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
@@ -117,6 +118,7 @@ namespace Calculadora_de_indice
             this.Controls.Add(this.txtIndex);
             this.Controls.Add(this.txtAverage);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "fMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
